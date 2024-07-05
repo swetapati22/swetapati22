@@ -18,17 +18,21 @@ Here are some ideas to get you started:
   Hello, I'm Sweta Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> and Welcome to my GitHub profile! 
 </h1>
 
-I am a passionate and driven Master's student in pursuing Master's in Computer Science specializing in Machine Learning at George Mason University, with a rich background in Data Science and Machine Learning cultivated through extensive hands-on experiences. 
+I am a passionate and driven Master's student pursuing Master's in Computer Science specializing in Machine Learning at George Mason University, with a rich background in Data Science and Machine Learning cultivated through 3+ years of work experience. 
 
 ## 🎓 Education
 - **Master of Science in Computer Science** - George Mason University, Fairfax, VA (Expected May 2025, GPA: 3.89/4.00)
-- **Bachelor of Technology in Computer Science & Engineering** - Kalinga Institute of Industrial Technology, Bhubaneswar, India (May 2020, GPA: 3.60/4.00)
 
 ## 💼 Professional Experience
+- **Research Assistant, George Mason Univeristy** (June 2024 - Present)
+- Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
+- My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning.
+
 - **Software Engineer 2, Data Science Team Lead** (Sept 2020 - Aug 2023)
 
-- My professional journey at HighRadius has been marked by leading the development and deployment of innovative ML models, automating processes to improve efficiency, and mentoring future talent. I am fuelled by a constant thirst for knowledge and a desire to make impactful contributions through technology. Beyond technical prowess, my strengths lie in stakeholder management, project management, and team leadership.
-- With over four years of experience in the fast-paced tech industry, I have honed my skills in Python, SQL, Machine Learning Models, Java, and a suite of data science tools including PyCharm, Jupyter, and Tableau. My work revolves around developing sophisticated machine learning models and data-driven solutions to enhance operational efficiency, client satisfaction, and decision-making processes. Leading projects to their successful completion, I've automated ML frameworks and deployment pipelines, significantly reducing implementation timelines by 48% and enhancing product explainability for Fortune 500 clients.
+- With 3+ years of experience in the fast-paced Fin-tech industry, I have honed my skills in Python, SQL, Machine Learning Models, Java, and a suite of data science tools including PyCharm, Jupyter, and Tableau.
+- My role involved ideation, designing, and developing end-to-end Machine Learning (ML) models and data-driven solutions, improving operational efficiency, client satisfaction, and decision-making across 3 products and 5 use cases within these products.
+- I successfully directed projects to completion, automating ML frameworks and deployment pipelines. This automation cut down implementation times by an average of 48% along with enhancing product explainability for Fortune 500 clients.
 
 ## 🛠️ Skills
 - **Languages**: Python, SQL, DBMS, C, Java
