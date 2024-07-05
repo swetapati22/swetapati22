@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 I am a passionate and driven Master's student pursuing Master's in Computer Science specializing in Machine Learning at George Mason University with 3.89 GPA, having a rich background in Data Science and Machine Learning cultivated through 3+ years of work experience. 
 
 ## 💼 Professional Experience
-##### Research Assistant, George Mason Univeristy (June 2024 - Present)
+#### **Research Assistant, George Mason Univeristy (June 2024 - Present)**
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning.
 
-##### Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [FinTech]
+#### **Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [FinTech]**
 - My role involved ideation, designing, and developing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client and enhancing product explainability.
 
 ## 🛠️ Skills
