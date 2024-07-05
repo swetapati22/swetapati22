@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 #align="center">
-  Hello, I'm Sweta Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  Hello, I'm Sweta Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> and Welcome to my GitHub profile! 
 </h1>
 
-<h1 #align="center">
-Welcome to my GitHub profile! 
-</h1>
-
-<h3 #align="center">
 I am a passionate and driven Master's student in pursuing Master's in Computer Science specializing in Machine Learning at George Mason University, with a rich background in Data Science and Machine Learning cultivated through extensive hands-on experiences. 
-</h3>
 
 ## 🎓 Education
 - **Master of Science in Computer Science** - George Mason University, Fairfax, VA (Expected May 2025, GPA: 3.89/4.00)
