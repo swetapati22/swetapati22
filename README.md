@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Sweta Pati! 👋
+<h1 align="center">
+  Hello, I'm Sweta Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
 
 Welcome to my GitHub profile! 
 
