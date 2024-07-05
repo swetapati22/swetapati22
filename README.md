@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
+<h1>
   Hello, I'm Sweta Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
