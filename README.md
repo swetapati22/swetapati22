@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Hello, I'm Sweta Pati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
-I am a passionate and driven Master's student pursuing Master's in Computer Science specializing in Machine Learning at George Mason University with 3.89 GPA, having a rich background in Data Science and Machine Learning cultivated through 3+ years of work experience. 
+I am a passionate and driven Master's student pursuing Master's in Computer Science specializing in Machine Learning at George Mason University with 3.93 GPA, having a rich background in Data Science and Machine Learning cultivated through 3+ years of work experience. 
 
 ## 💼 Professional Experience
 #### **Research Assistant, George Mason Univeristy (June 2024 - Present)**
