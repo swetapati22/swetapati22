@@ -35,7 +35,7 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - Integrated **PubMed API, Wikipedia API, DuckDuckGo** for sourcing medical information.  
   - **Tech Stack**: Python, **LLaMA-3.3-70B, Phidata, Groq Inference API, PubMed API, Wikipedia API, DuckDuckGo**.  
 
-☁️ **Multi-Cloud AI-Driven DevOps Project*  
+☁️ **Multi-Cloud AI-Driven DevOps Project**  
   - **Designed a scalable, AI-powered e-commerce platform** leveraging **AWS, GCP, and Azure**.  
   - **Infrastructure as Code (IaC)**: Provisioned **AWS EC2, EKS, DynamoDB** with **Terraform**.  
   - **Kubernetes Deployment**: Containerized & deployed **frontend & backend** on **AWS EKS**.  
