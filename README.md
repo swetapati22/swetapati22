@@ -30,12 +30,12 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   
 ## 🔭 Projects
 
-- 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
+🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
   - Developed a **multi-agent framework** using **LLaMA-3.3 70B** to extract and summarize **evidence-based medical insights**.  
   - Integrated **PubMed API, Wikipedia API, DuckDuckGo** for sourcing medical information.  
   - **Tech Stack**: Python, **LLaMA-3.3-70B, Phidata, Groq Inference API, PubMed API, Wikipedia API, DuckDuckGo**.  
-    
-- ☁️ **Multi-Cloud AI-Driven DevOps Project*  
+
+☁️ **Multi-Cloud AI-Driven DevOps Project*  
   - **Designed a scalable, AI-powered e-commerce platform** leveraging **AWS, GCP, and Azure**.  
   - **Infrastructure as Code (IaC)**: Provisioned **AWS EC2, EKS, DynamoDB** with **Terraform**.  
   - **Kubernetes Deployment**: Containerized & deployed **frontend & backend** on **AWS EKS**.  
@@ -46,30 +46,30 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - **Tech Stack**: Python, **Terraform, Docker, Kubernetes, AWS, GCP, Azure, FastAPI, OpenAI APIs, Bedrock AI, Google BigQuery**
   - 🔗 **GitHub Repo:** [Multi-Cloud AI-Driven DevOps](https://github.com/swetapati22/cloudmart) 
 
-- 🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
+🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
   - Fine-tuned **BERT** for **15-class multilingual classification**, achieving **70% accuracy**.  
   - Enhanced generalization with **450+ annotated sentences** and **data augmentation** via translation and paraphrasing.  
   - **Tech Stack**: Python, **Hugging Face Transformers, BERT, Spacy, HPC, Colab, GPU**.
 
-- 🤖 **Gentopia-Mason: Enhancing LLM Agents with Currency Conversion**  
+🤖 **Gentopia-Mason: Enhancing LLM Agents with Currency Conversion**  
   - Adapted **Gentopia** framework for **creating modular LLM agents**.  
   - Implemented a **Currency Conversion Agent** using **Fixer.io API** for **real-time exchange rate retrieval**.  
   - Extended the **existing agent framework** to support financial applications alongside NLP.  
   - **Tech Stack**: Python, **Gentopia, OpenAI API, Fixer.io API, Agent Frameworks**.  
   - 🔗 **GitHub Repo:** [Gentopia-Mason](https://github.com/swetapati22/Gentopia-Mason)  
 
-- 🛡️ **Counterhate Arguments: Enhancing Online Discourse Against Hate Speech**  
+🛡️ **Counterhate Arguments: Enhancing Online Discourse Against Hate Speech**  
   - Reproduced and extended the **study on authentic counterhate arguments** to combat targeted hate speech online.  
   - Designed and implemented **data processing, model training, and error analysis pipelines**.  
   - **Tech Stack**: Python, **Hugging Face Transformers, PyTorch, NLP, DataLoader, RoBERTa, LongFormer**.  
   - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)
 
-- 🚍 **Dynamic Bus Routing System**  
+🚍 **Dynamic Bus Routing System**  
   - Designed an **algorithm** to optimize **bus routing based on demand and supply**.  
   - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
   - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**  
     
-- 🚦 **Dynamic Traffic Management System**  
+🚦 **Dynamic Traffic Management System**  
   - Designed an **algorithmic solution for traffic management in big cities** to optimize signal timing.
   - **Tech Stack**: **Algorithm**
 
