@@ -38,7 +38,7 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - Designed an **algorithmic solution for traffic management in big cities** to optimize signal timing.
   - **Tech Stack**: **Algorithm**  
     
-- ☁️ **Multi-Cloud AI-Driven DevOps Project: CloudMart**  
+- ☁️ **Multi-Cloud AI-Driven DevOps Project*  
   - **Designed a scalable, AI-powered e-commerce platform** leveraging **AWS, GCP, and Azure**.  
   - **Infrastructure as Code (IaC)**: Provisioned **AWS EC2, EKS, DynamoDB** with **Terraform**.  
   - **Kubernetes Deployment**: Containerized & deployed **frontend & backend** on **AWS EKS**.  
