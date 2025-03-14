@@ -28,15 +28,15 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
 
+## 🔭 Projects
+- **Dynamic Bus Routing System**: Enhancing urban transit using dynamic bus allocations based on real-time data through YOLO object detection.
+- **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
 
 ## 🏆 Achievements
 - **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
 - **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
 - **Best Performer at Highradius**: Awarded in Q3 2020, Q1 2021 & Q4 2021 at HighRadius.
 
-## 🔭 Projects
-- **Dynamic Bus Routing System**: Enhancing urban transit using dynamic bus allocations based on real-time data through YOLO object detection.
-- **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
 
 ## 🛠 Tech Stack:
 
@@ -44,8 +44,6 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
 
 ### **🤖 Machine Learning & Deep Learning**
 ![Statistics](https://img.shields.io/badge/Statistics-%234285F4.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -63,8 +61,6 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![RNN](https://img.shields.io/badge/Recurrent%20Neural%20Networks-%2315A9C5.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
 ### **📝 Natural Language Processing (NLP)**
 ![LLMs](https://img.shields.io/badge/LLMs-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Information Extraction](https://img.shields.io/badge/Information%20Extraction-%2300A896.svg?style=for-the-badge&logo=dataiku&logoColor=white)
@@ -81,15 +77,11 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![LLaMA](https://img.shields.io/badge/LLaMA-%23FF6F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
 ### **📊 Data Science & Analytics**
 ![Data Science](https://img.shields.io/badge/Data%20Science-%23FF6F00.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23007ACC.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-%234A90E2.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-
----
 
 ### **☁️ Cloud & Development Tools**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -99,8 +91,6 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7DF1E.svg?style=for-the-badge&logo=githubactions&logoColor=black)
-
----
 
 ### **📂 Version Control & Productivity**
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
