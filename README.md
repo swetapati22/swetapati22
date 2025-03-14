@@ -31,9 +31,13 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ## 🔭 Projects
 - 🚍 **Dynamic Bus Routing System**  
   - Designed an **algorithm** to optimize **bus routing based on demand and supply**.  
-  - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**. 
+  - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
+  - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**  
+    
 - 🚦 **Dynamic Traffic Management System**  
-  - Designed an **algorithmic solution for traffic management in big cities** to optimize signal timing.    
+  - Designed an **algorithmic solution for traffic management in big cities** to optimize signal timing.
+  - **Tech Stack**: **Algorithm**  
+    
 - ☁️ **Multi-Cloud AI-Driven DevOps Project: CloudMart**  
   - **Designed a scalable, AI-powered e-commerce platform** leveraging **AWS, GCP, and Azure**.  
   - **Infrastructure as Code (IaC)**: Provisioned **AWS EC2, EKS, DynamoDB** with **Terraform**.  
@@ -41,7 +45,18 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - **CI/CD Automation**: Built a **GitHub-integrated AWS CodePipeline** for seamless deployments.  
   - **AI Enhancements**: Integrated **Amazon Bedrock AI** for **product recommendations**, **OpenAI GPT-4o** for **customer support**.  
   - **Multi-Cloud Data Processing**: Connected **AWS Lambda** to **Google BigQuery** for **real-time analytics**, used **Azure AI** for **sentiment analysis**.  
-  - **Cloud Synchronization**: Ensured smooth **data exchange across cloud providers**.  
+  - **Cloud Synchronization**: Ensured smooth **data exchange across cloud providers**.
+  - **Tech Stack**: Python, **Terraform, Docker, Kubernetes, AWS, GCP, Azure, FastAPI, OpenAI APIs, Bedrock AI, Google BigQuery**  
+
+- 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
+  - Developed a **multi-agent framework** using **LLaMA-3.3 70B** to extract and summarize **evidence-based medical insights**.  
+  - Integrated **PubMed API, Wikipedia API, DuckDuckGo** for sourcing medical information.  
+  - **Tech Stack**: Python, **LLaMA-3.3-70B, Phidata, Groq Inference API, PubMed API, Wikipedia API, DuckDuckGo**.  
+
+- 🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
+  - Fine-tuned **BERT** for **15-class multilingual classification**, achieving **70% accuracy**.  
+  - Enhanced generalization with **450+ annotated sentences** and **data augmentation** via translation and paraphrasing.  
+  - **Tech Stack**: Python, **Hugging Face Transformers, BERT, Spacy, HPC, Colab, GPU**.  
 
 ## 🛠 Tech Stack:
 
