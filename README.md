@@ -28,18 +28,6 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
 
-## 🛠️ Skills
-- **Languages**: Python, SQL, DBMS, C, Java
-- **Technical Skills**: Data Analysis, Data Science, Data Mining, Machine Learning, Natural Language Processing, Algorithms
-- **Tools**: Pycharm, Jupyter, Tableu, GitHub, MySQL, Eclipse, Jira, Microsoft Office Suite
-
-## 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%23008080.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI Research](https://img.shields.io/badge/AI%20Research-%23d9ead3.svg?style=for-the-badge&logo=researchgate&logoColor=blue)
-
 ## 🛠 Tech Stack:
 
 ### **🖥️ Programming Languages**
@@ -103,8 +91,8 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
 
 ## 📫 How to Reach Me
-- **Email**: [spati@gmu.edu](mailto:spati@gmu.edu)
-- **LinkedIn**: [sweta-pati](https://linkedin.com/in/sweta-pati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sweta-pati)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spati@gmu.edu)
 
 ## ⚡ Fun Fact
 - I love exploring new places!
