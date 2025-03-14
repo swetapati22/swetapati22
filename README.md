@@ -28,6 +28,16 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
 
+
+## 🏆 Achievements
+- **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
+- **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
+- **Best Performer at Highradius**: Awarded in Q3 2020, Q1 2021 & Q4 2021 at HighRadius.
+
+## 🔭 Projects
+- **Dynamic Bus Routing System**: Enhancing urban transit using dynamic bus allocations based on real-time data through YOLO object detection.
+- **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
+
 ## 🛠 Tech Stack:
 
 ### **🖥️ Programming Languages**
@@ -38,21 +48,37 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ---
 
 ### **🤖 Machine Learning & Deep Learning**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2300A896.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%230075A5.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-%234285F4.svg?style=for-the-badge&logo=r&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%2300A896.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-%23FF5733.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-%2315A9C5.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-%233E2723.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-%2300BFFF.svg?style=for-the-badge&logo=matrix&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-%234A90E2.svg?style=for-the-badge&logo=timescale&logoColor=white)
+![Ensemble Learning](https://img.shields.io/badge/Bagging%20&%20Boosting-%23F39C12.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23FF7F0E.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%230075A5.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-%23FF5733.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RNN](https://img.shields.io/badge/Recurrent%20Neural%20Networks-%2315A9C5.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
 ### **📝 Natural Language Processing (NLP)**
-![NLP](https://img.shields.io/badge/NLP-%23008080.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Information Extraction](https://img.shields.io/badge/Information%20Extraction-%2300A896.svg?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFDE57.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gen AI](https://img.shields.io/badge/Generative%20AI-%2300A896.svg?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%23007396.svg?style=for-the-badge&logo=vector-db&logoColor=white)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-%23E44D26.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%2300A896.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23F7931E.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-%2345b39c.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Natural Language Querying](https://img.shields.io/badge/Natural%20Language%20Querying-%237D3C98.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23D4AC0D.svg?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-%23007396.svg?style=for-the-badge&logo=vector-db&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-%239C27B0.svg?style=for-the-badge&logo=weaviate&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-%23FF6F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -81,14 +107,6 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🏆 Achievements
-- **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
-- **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
-- **Best Performer at Highradius**: Awarded in Q3 2020, Q1 2021 & Q4 2021 at HighRadius.
-
-## 🔭 Projects
-- **Dynamic Bus Routing System**: Enhancing urban transit using dynamic bus allocations based on real-time data through YOLO object detection.
-- **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sweta-pati)
