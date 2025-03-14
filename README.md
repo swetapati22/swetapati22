@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 I am a passionate **Master's in Computer Science student, specializing in Machine Learning** at George Mason University (GPA: **3.93**), with **4+ years** of experience in **Data Science & Machine Learning** at HighRadius Technologies.
 
+---
+
 ## 💼 Professional Experience
 #### **Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [Domain: FinTech]**
 - My role involved ideation, designing, developing and productionizing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client like Nestle, Kraft Heinz, Kellogs, Clarks, etc, and enhancing product explainability.
@@ -28,15 +30,13 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
 
+---
+
 ## 🔭 Projects
 - **Dynamic Bus Routing System**: Enhancing urban transit using dynamic bus allocations based on real-time data through YOLO object detection.
 - **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
 
-## 🏆 Achievements
-- **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
-- **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
-- **Best Performer at Highradius**: Awarded in Q3 2020, Q1 2021 & Q4 2021 at HighRadius.
-
+---
 
 ## 🛠 Tech Stack:
 
@@ -97,10 +97,20 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+---
+
+## 🏆 Achievements
+- **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
+- **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
+- **Best Performer at Highradius**: Awarded in Q3 2020, Q1 2021 & Q4 2021 at HighRadius.
+
+---
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sweta-pati)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spati@gmu.edu)
+
+---
 
 ## ⚡ Fun Fact
 - I love exploring new places!
