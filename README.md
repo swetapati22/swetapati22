@@ -24,8 +24,7 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 #### **Research Assistant, George Mason Univeristy (June 2024 - Present)**
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning.
-- 📝 **Paper Title**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1)  
-  - 📌 **Under Review at ACL 2025**
+- 📝 **Paper Title**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
 
 
 #### **Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [FinTech]**
