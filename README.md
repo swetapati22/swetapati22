@@ -117,6 +117,10 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+## 🏆 Certifications  
+- 📜 **MATLAB Onramp** – *MathWorks* ([Certificate Link](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e026d16c-3c16-4ef5-b978-350e30dc1017&)) *(Mar 2025)*  
+- ☁️ **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – *Oracle* *(Aug 2024)*  
+
 ## 🏆 Achievements
 - **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
 - **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
