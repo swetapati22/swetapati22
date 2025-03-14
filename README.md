@@ -40,6 +40,59 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![NLP](https://img.shields.io/badge/NLP-%23008080.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI Research](https://img.shields.io/badge/AI%20Research-%23d9ead3.svg?style=for-the-badge&logo=researchgate&logoColor=blue)
 
+## 🛠 Tech Stack:
+
+### **🖥️ Programming Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### **🤖 Machine Learning & Deep Learning**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2300A896.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%230075A5.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23FF7F0E.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### **📝 Natural Language Processing (NLP)**
+![NLP](https://img.shields.io/badge/NLP-%23008080.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFDE57.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gen AI](https://img.shields.io/badge/Generative%20AI-%2300A896.svg?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23007396.svg?style=for-the-badge&logo=vector-db&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23F7931E.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### **📊 Data Science & Analytics**
+![Data Science](https://img.shields.io/badge/Data%20Science-%23FF6F00.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23007ACC.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-%234A90E2.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### **☁️ Cloud & Development Tools**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7DF1E.svg?style=for-the-badge&logo=githubactions&logoColor=black)
+
+---
+
+### **📂 Version Control & Productivity**
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 ## 🏆 Achievements
 - **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
 - **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
