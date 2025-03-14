@@ -29,8 +29,16 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
   
 ## 🔭 Projects
-- **Dynamic Bus Routing System**: Enhancing urban transit using dynamic bus allocations based on real-time data through YOLO object detection.
-- **Dynamic Traffic Management System**: Developing a system to optimize traffic flow and reduce congestion through intelligent signal timing adjustments.
+- 🚍 Dynamic Bus Routing System – AI-powered real-time transit optimization using YOLO object detection.
+- 🚦 Dynamic Traffic Management System – Smart traffic flow optimization with intelligent signal timing adjustments.
+- ☁️ Multi-Cloud AI-Driven DevOps Project: CloudMart
+Designed a scalable, AI-powered e-commerce platform leveraging AWS, GCP, and Azure.
+Infrastructure as Code (IaC): Provisioned AWS EC2, EKS, DynamoDB with Terraform.
+Kubernetes Deployment: Containerized & deployed frontend & backend on AWS EKS.
+CI/CD Automation: Built a GitHub-integrated AWS CodePipeline for seamless deployments.
+AI Enhancements: Integrated Amazon Bedrock AI for product recommendations, OpenAI GPT-4o for customer support.
+Multi-Cloud Data Processing: Connected AWS Lambda to Google BigQuery for real-time analytics and used Azure AI for sentiment analysis.
+Cloud Synchronization: Ensured smooth data exchange across cloud providers.
 
 ## 🛠 Tech Stack:
 
