@@ -18,12 +18,15 @@ Here are some ideas to get you started:
   Hello, I'm Sweta Pati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
-I am a passionate and driven Master's student pursuing Master's in Computer Science specializing in Machine Learning at George Mason University with 3.93 GPA, having a rich background in Data Science and Machine Learning cultivated through 3+ years of work experience. 
+I am a passionate **Master's in Computer Science student, specializing in Machine Learning** at George Mason University (GPA: **3.93**), with **4+ years** of experience in **Data Science & Machine Learning** at HighRadius Technologies.
 
 ## 💼 Professional Experience
 #### **Research Assistant, George Mason Univeristy (June 2024 - Present)**
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning.
+- 📝 **Paper Title**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1)  
+  - 📌 **Under Review at ACL 2025**
+
 
 #### **Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [FinTech]**
 - My role involved ideation, designing, and developing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client and enhancing product explainability.
