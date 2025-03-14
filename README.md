@@ -114,5 +114,10 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 
 ## ⚡ Fun Fact
 - I love exploring new places!
+ 
+---
 
-Thank you for visiting my profile!
+## 👀 Profile Visitor Count
+![](https://visitcount.itsvg.in/api?id=swetapati22&icon=0&color=0)
+
+Thank you for visiting my profile! 😊
