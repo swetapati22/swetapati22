@@ -51,11 +51,12 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - Enhanced generalization with **450+ annotated sentences** and **data augmentation** via translation and paraphrasing.  
   - **Tech Stack**: Python, **Hugging Face Transformers, BERT, Spacy, HPC, Colab, GPU**.
 
-🤖 **Gentopia-Mason: Enhancing LLM Agents with Currency Conversion**  
+🤖 **Gentopia-Mason: Enhancing LLM Agents with Currency Conversion & PDF Reader**  
   - Adapted **Gentopia** framework for **creating modular LLM agents**.  
   - Implemented a **Currency Conversion Agent** using **Fixer.io API** for **real-time exchange rate retrieval**.  
-  - Extended the **existing agent framework** to support financial applications alongside NLP.  
-  - **Tech Stack**: Python, **Gentopia, OpenAI API, Fixer.io API, Agent Frameworks**.  
+  - Developed a **PDF Reader Agent** to extract text from **online PDF documents** using **PyPDF2**.  
+  - Extended the **existing agent framework** to support **financial applications, document processing, and NLP tasks**.  
+  - **Tech Stack**: Python, **Gentopia, OpenAI API, Fixer.io API, PyPDF2, Agent Frameworks**.  
   - 🔗 **GitHub Repo:** [Gentopia-Mason](https://github.com/swetapati22/Gentopia-Mason)  
 
 🛡️ **Counterhate Arguments: Enhancing Online Discourse Against Hate Speech**  
