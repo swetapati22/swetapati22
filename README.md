@@ -64,6 +64,14 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - **Tech Stack**: Python, **Hugging Face Transformers, PyTorch, NLP, DataLoader, RoBERTa, LongFormer**.  
   - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)
 
+📊 **YouTube Global Statistics Analytics**  
+  - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
+  - Built **six interactive visualizations** using **Plotly** to showcase insights dynamically.  
+  - Implemented **a global filter (slider)** to dynamically refine data based on view count thresholds.  
+  - **Visualizations include**: Bar Charts, Line Graphs, Heatmaps, and Choropleth Maps.  
+  - **Tech Stack**: **Python, Plotly, Preswald, Pandas, GitHub, Data Visualization**.  
+  - 🔗 **GitHub Repo:** [YouTube Global Statistics Analytics](https://github.com/swetapati22/youtube_statistics_analytics_dashboard)  
+
 🚍 **Dynamic Bus Routing System**  
   - Designed an **algorithm** to optimize **bus routing based on demand and supply**.  
   - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
