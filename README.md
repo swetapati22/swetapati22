@@ -74,7 +74,9 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - 🔗 **GitHub Repo:** [YouTube Global Statistics Analytics](https://github.com/swetapati22/youtube_statistics_analytics_dashboard)  
 
 🚍 **Dynamic Bus Routing System**  
-  - Designed an **algorithm** to optimize **bus routing based on demand and supply**.  
+*[Winner] - Smart India Hackathon (Nation Level Hackathon In India)* 
+
+  - Designed an **algorithm** to optimize **bus routing based on demand and supply**. 
   - Utilized **YOLO object detection** to **quantify demand at bus stops and inside buses** for **dynamic route allocation**.
   - **Tech Stack**: **Python, YOLO, OpenCV, Scikit-Learn, Algorithm**  
     
