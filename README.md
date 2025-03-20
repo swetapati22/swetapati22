@@ -44,7 +44,7 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - **Multi-Cloud Data Processing**: Connected **AWS Lambda** to **Google BigQuery** for **real-time analytics**, used **Azure AI** for **sentiment analysis**.  
   - **Cloud Synchronization**: Ensured smooth **data exchange across cloud providers**.
   - **Tech Stack**: Python, **Terraform, Docker, Kubernetes, AWS, GCP, Azure, FastAPI, OpenAI APIs, Bedrock AI, Google BigQuery**
-  - 🔗 **GitHub Repo:** [Multi-Cloud AI-Driven DevOps](https://github.com/swetapati22/MultiCloud_DevOps_AI_Platform) 
+  - 🔗 **GitHub Repo:** [Multi-Cloud AI-Driven DevOps](https://github.com/swetapati22/MultiCloud_DevOps_AI_Project) 
 
 🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
   - Fine-tuned **BERT** for **15-class multilingual classification**, achieving **70% accuracy**.  
