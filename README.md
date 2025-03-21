@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-Visit my webpage to know more about me - [Link to my website](https://swetapati22.github.io/)
+Visit my webpage to know more about me: - [Link to my website](https://swetapati22.github.io/)
 
 ---
 
