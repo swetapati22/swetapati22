@@ -158,10 +158,7 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7DF1E.svg?style=for-the-badge&logo=githubactions&logoColor=black)
 
-### **📂 Version Control & Productivity**
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## 🏆 Certifications  
 - ☁️ **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – *Oracle* *(Aug 2024)*
