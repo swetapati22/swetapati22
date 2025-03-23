@@ -120,6 +120,13 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![RNN](https://img.shields.io/badge/Recurrent%20Neural%20Networks-%2315A9C5.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### **📝 Natural Language Processing (NLP) &  Generative AI (GenAI)**
+![LLMs](https://img.shields.io/badge/LLMs-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Information Extraction](https://img.shields.io/badge/Information%20Extraction-%2300A896.svg?style=for-the-badge&logo=dataiku&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFDE57.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-%23E44D26.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%2300A896.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ### **📊 Data Science & Analytics**
