@@ -137,7 +137,6 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%23F7931E.svg?style=for-the-badge&logo=ai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23F7931E.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
-
 ### **📊 Data Science & Analytics**
 ![Data Science](https://img.shields.io/badge/Data%20Science-%23FF6F00.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23007ACC.svg?style=for-the-badge&logo=powerbi&logoColor=white)
