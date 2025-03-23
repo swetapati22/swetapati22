@@ -127,6 +127,15 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFDE57.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-%23E44D26.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%2300A896.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-%2345b39c.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Natural Language Querying](https://img.shields.io/badge/Natural%20Language%20Querying-%237D3C98.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23D4AC0D.svg?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-%23007396.svg?style=for-the-badge&logo=vector-db&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-%239C27B0.svg?style=for-the-badge&logo=weaviate&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-%23FF6F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%23F7931E.svg?style=for-the-badge&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23F7931E.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 
 ### **📊 Data Science & Analytics**
