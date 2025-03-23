@@ -63,7 +63,13 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
   - Developed a **PDF Reader Agent** to extract text from **online PDF documents** using **PyPDF2**.  
   - Extended the **existing agent framework** to support **financial applications, document processing, and NLP tasks**.  
   - **Tech Stack**: Python, **Gentopia, OpenAI API, Fixer.io API, PyPDF2, Agent Frameworks**.  
-  - 🔗 **GitHub Repo:** [Gentopia-Mason](https://github.com/swetapati22/Gentopia-Mason)  
+  - 🔗 **GitHub Repo:** [Gentopia-Mason](https://github.com/swetapati22/Gentopia-Mason)
+
+🛡️ **Counterhate Arguments: Enhancing Online Discourse Against Hate Speech**  
+  - Reproduced and extended the **study on authentic counterhate arguments** to combat targeted hate speech online.  
+  - Designed and implemented **data processing, model training, and error analysis pipelines**.  
+  - **Tech Stack**: Python, **Hugging Face Transformers, PyTorch, NLP, DataLoader, RoBERTa, LongFormer**.  
+  - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)  
 
 📊 **YouTube Global Statistics Analytics**  
   - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
