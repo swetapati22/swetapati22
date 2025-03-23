@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   Hello, I'm Sweta Pati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
----
 
 Visit my webpage to know more about me: - [Link to my website](https://swetapati22.github.io/)
 
