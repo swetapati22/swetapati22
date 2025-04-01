@@ -34,7 +34,7 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
 - My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
   
-## 🔭 Projectst
+## 🔭 Projects
 
 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
   - Developed a **multi-agent framework** using **LLaMA-3.3 70B** to extract and summarize **evidence-based medical insights**.  
