@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 ---
 
-Visit my webpage to know more about me: - [Link to my website](https://swetapati22.github.io/)
-
----
-
 I am a passionate **Master's in Computer Science student, specializing in Machine Learning** at George Mason University (GPA: **3.93**), with **4+ years** of experience in **Data Science & Machine Learning** at HighRadius Technologies.
 
 ## 💼 Professional Experience
