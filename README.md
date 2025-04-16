@@ -160,6 +160,8 @@ I am a passionate **Master's in Computer Science student, specializing in Machin
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🏆 Certifications  
+- 
+- 🤖 **Event-Driven Agentic Document Workflows** - *Deep Learning.AI and LlamaIndex*, ([Certificate Link](https://learn.deeplearning.ai/accomplishments/81a0e776-b457-4584-853d-1cf8023b81e1?usp=sharing) *(Mar 2025)*  
 - ☁️ **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – *Oracle* *(Aug 2024)*
 - 📜 **MATLAB Onramp** – *MathWorks* ([Certificate Link](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e026d16c-3c16-4ef5-b978-350e30dc1017&)) *(Mar 2025)*  
 
