@@ -18,7 +18,10 @@ Here are some ideas to get you started:
   Hello, I'm Sweta Pati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
-Visit my webpage: - [Link to my website](https://swetapati22.github.io/)
+---
+
+### Visit my webpage: - [Link to my website](https://swetapati22.github.io/)
+
 ---
 
 AI/ML Engineer with 5+ years of experience designing, implementing, and scaling ML and GenAI solutions across FinTech and NLP domains. My work spans ML modeling, LLM fine-tuning, RAG pipelines, and agentic AI systems, translating data into real-world impact.
