@@ -43,7 +43,7 @@ Actively seeking full-time opportunities in AI/ML, NLP, or GenAI. I bring a uniq
 #### **Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [Domain: FinTech]**
 - My role involved ideation, designing, developing and productionizing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client like Nestle, Kraft Heinz, Kellogs, Clarks, etc, and enhancing product explainability.
 
-#### ** Machine Learning Research Associate, Indian Institute of Technology, Kharagpur (Jan 2018 - Jun 2018)
+#### ** Machine Learning Research Associate, Indian Institute of Technology, Kharagpur (Jan 2018 - Jun 2018)**
 - I worked on two projects during my association with Indian Institute of Technology, Kharagpur. 
 > Project 1: ML-Based News Headline Classification:
 - Built a Naive Bayes and LSTM-based classifier for real-time news headline categorization (e.g., sports, politics, business) using the AG News dataset.
