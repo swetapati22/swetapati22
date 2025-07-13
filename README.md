@@ -20,16 +20,43 @@ Here are some ideas to get you started:
 
 ---
 
-I am a passionate **Master's in Computer Science student, specializing in Machine Learning** at George Mason University (GPA: **3.93**), with **4+ years** of experience in **Data Science & Machine Learning** at HighRadius Technologies.
+AI/ML Engineer with 5+ years of experience designing, implementing, and scaling ML and GenAI solutions across FinTech and NLP domains. My work spans ML modeling, LLM fine-tuning, RAG pipelines, and agentic AI systems, translating data into real-world impact.
+
+• Currently working as an AI/ML Engineer at 4A Consulting, LLC, where I build cutting-edge AI products in their innovation hub for multiple Fortune 500 clients, applying GenAI, multi-agent systems, and scalable ML pipelines across domains.
+• At HighRadius, I led ML initiatives that enhanced fraud detection, improved payment forecasting, and optimized financial workflows, delivering measurable outcomes and contributing to up to 12% improvement in revenue recovery across global enterprises like Nestlé, Uber, and Kraft Heinz.
+• My research as a NLP research assistant on instruction-tuned LLMs for event extraction, conducted at George Mason University, was accepted at ACL 2025.
+
+Skilled in Python, PyTorch, Hugging Face, LangChain, Transformers, LLMs (LLaMA, GPT), LoRA, RAG, Agentic AI, Prompt Engineering, AWS, GCP, Docker, CI/CD, MLOps
+
+Actively seeking full-time opportunities in AI/ML, NLP, or GenAI. I bring a unique blend of applied industry experience and research-driven thinking to build impactful, production-ready AI solutions.
+
+---
 
 ## 💼 Professional Experience
+#### **AI/ML Engineer, 4A Consulting LLC (June 2025 - Present) **
+- My role involved ideation, designing, developing and productionizing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client like Nestle, Kraft Heinz, Kellogs, Clarks, etc, and enhancing product explainability.
+
+#### **Natural Language Processing Research Assistant, George Mason Univeristy (May 2024 - May 2025)**
+- Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
+- My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Published at ACL 2025**)
+
 #### **Data Scientist & Team Lead, Highradius (Sept 2020 - Aug 2023) [Domain: FinTech]**
 - My role involved ideation, designing, developing and productionizing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client like Nestle, Kraft Heinz, Kellogs, Clarks, etc, and enhancing product explainability.
 
-#### **Research Assistant, George Mason Univeristy (June 2024 - Present)**
-- Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
-- My work is focused on Information Extraction (IE) that generalizes well on unseen tasks in Large Language Models (LLMs) combined with instruction tuning. 📝 **Paper:**: [Information Extraction in LLMs with Instruction Tuning](https://arxiv.org/abs/2502.16377v1) (**Under Review at ACL 2025**)
-  
+#### ** Machine Learning Research Associate, Indian Institute of Technology, Kharagpur (Jan 2018 - Jun 2018)
+- I worked on two projects during my association with Indian Institute of Technology, Kharagpur. 
+> Project 1: ML-Based News Headline Classification:
+- Built a Naive Bayes and LSTM-based classifier for real-time news headline categorization (e.g., sports, politics, business) using the AG News dataset.
+- Evaluated models using accuracy and F1 score, and visualized results using word clouds and confusion matrices.
+- Gained exposure to preprocessing techniques like tokenization, TF-IDF, and word embeddings.
+
+> Project 2: PUFSSL – An OpenSSL Extension for PUF-Based Authentication:
+Published a research paper on 'An OpenSSL Extension for {PUF} based Authentication'. 
+Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extension for PUF based Authentication](https://ieeexplore.ieee.org/document/8631814)
+- Gained exposure on Galois theory and implemented BCH error correction code to rectify the PUF Response.
+- Compared all existing test suites in OpenSSL with the proposed authentication protocol.
+- Developed an android application to support the process.
+
 ## 🔭 Projects
 
 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
