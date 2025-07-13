@@ -38,7 +38,7 @@ Actively seeking full-time opportunities in AI/ML, NLP, or GenAI. I bring a uniq
 
 ## 💼 Professional Experience
 #### **AI/ML Engineer, 4A Consulting LLC (June 2025 - Present)**
-- My role involved ideation, designing, developing and productionizing end-to-end ML models and data-driven solutions, improving operational efficiency, and decision-making for Fortune 500 client like Nestle, Kraft Heinz, Kellogs, Clarks, etc, and enhancing product explainability.
+- I build cutting-edge AI products in their innovation hub for multiple Fortune 500 clients, applying GenAI, multi-agent systems, and scalable ML pipelines across domains.
 
 #### **Natural Language Processing Research Assistant, George Mason Univeristy (May 2024 - May 2025)**
 - Working as a Research Assistant under Professor Ziyu Yao in the domain of NLP.
