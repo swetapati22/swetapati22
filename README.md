@@ -109,7 +109,16 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - Developed features like **conversation summarization**, **video suggestions**, and **scam-resistance UX patterns**.
   - **Tech Stack**: TypeScript, React, **Flask, OpenAI GPT-4, Firebase**, Web Speech API, Bootstrap.
   - 🔗 **GitHub Repo:** [TechMate](https://github.com/swetapati22/TechMate)
-  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=OivQJb1afGA&t=1s)  
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=OivQJb1afGA&t=1s)
+
+📊 **TalkWithData: AI-Powered CSV Visualization Generator**
+  - Built a **zero-code tool** that lets users upload CSVs and receive **AI-generated visualizations** with Python code.
+  - Integrated **Google Gemini AI + Flask** to analyze data context and suggest charts like **heatmaps, scatter plots, and bar charts**.
+  - Created a clean **React.js** frontend with dynamic rendering of plots and source code.
+  - Enabled **seamless file handling, error feedback**, and **auto-generated chart summaries**.
+  - **Tech Stack**: JavaScript, **React.js, Flask, Matplotlib, Seaborn, Gemini AI**.
+  - 🔗 **GitHub Repo:** [TalkWithData](https://github.com/swetapati22/Talk_with_Data)
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=gNjNFfTYLe4) 
 
 📊 **YouTube Global Statistics Analytics**  
   - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
