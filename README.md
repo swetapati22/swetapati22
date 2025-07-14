@@ -228,6 +228,6 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
 
 ---
 ## 👀 Profile Visitor Count
-![](https://visitcount.itsvg.in/api?id=swetapati22&icon=0&color=0)
+![Visitor Badge](https://komarev.com/ghpvc/?username=swetapati22&label=Profile%20views&color=0e75b6&style=flat)
 
 Thank you for visiting my profile! 😊
