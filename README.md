@@ -96,7 +96,15 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - Reproduced and extended the **study on authentic counterhate arguments** to combat targeted hate speech online.  
   - Designed and implemented **data processing, model training, and error analysis pipelines**.  
   - **Tech Stack**: Python, **Hugging Face Transformers, PyTorch, NLP, DataLoader, RoBERTa, LongFormer**.  
-  - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)  
+  - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)
+
+🧓 **TechMate: AI-Powered Tech Support for Seniors**
+* Built a **voice-first AI assistant** and support platform to help **elderly users navigate modern technology**.
+* Integrated **GPT-4 via Flask** for step-by-step help, plus **human-in-the-loop escalation** and **YouTube tutorials** by device type.
+* Designed a **React + TypeScript + Vite** frontend with **speech input**, backed by **Firebase (Auth + Firestore)**.
+* Developed features like **conversation summarization**, **video suggestions**, and **scam-resistance UX patterns**.
+* **Tech Stack**: TypeScript, React, **Flask, OpenAI GPT-4, Firebase**, Web Speech API, Bootstrap.
+* 🔗 **GitHub Repo:** [TechMate]([https://github.com/your-username/techmate](https://github.com/swetapati22/TechMate))
 
 📊 **YouTube Global Statistics Analytics**  
   - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
