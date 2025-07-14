@@ -61,6 +61,7 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
 - Compared all existing test suites in OpenSSL with the proposed authentication protocol.
 - Developed an android application to support the process.
 
+---
 ## 🔭 Projects
 
 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
