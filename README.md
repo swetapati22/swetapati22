@@ -133,6 +133,7 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - Designed an **algorithmic solution for traffic management in big cities** to optimize signal timing.
   - **Tech Stack**: **Algorithm**
 
+---
 ## 🛠 Tech Stack:
 
 ### **🖥️ Programming Languages**
@@ -203,24 +204,29 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 ## 🏆 Certifications  
 - ⭐️ **Google AI Essentials**, *Google*, ([Certificate Link](https://www.credly.com/badges/8e960f69-03c2-49bf-aa47-8ec9c46f5b6b/public_url)), *(Mar 2025)*
 - 🤖 **Event-Driven Agentic Document Workflows** - *Deep Learning.AI and LlamaIndex*, ([Certificate Link](https://learn.deeplearning.ai/accomplishments/81a0e776-b457-4584-853d-1cf8023b81e1?usp=sharing)) *(Mar 2025)*  
 - ☁️ **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – *Oracle* ([Certificate Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4C87592A638EEF698C8D421AA74A4D5A7C23ADFF0C1C47702F1E199215273A58)) *(Aug 2024)*
 - 📜 **MATLAB Onramp** – *MathWorks* ([Certificate Link](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e026d16c-3c16-4ef5-b978-350e30dc1017&)) *(Mar 2025)*  
 
+---
 ## 🏆 Achievements
 - **Winner**: Smart India Hackathon 2019 at National Level Hackathon organized by MHRD, Govt. of India.
 - **Top 3**: Freeda Wake word ML Model Hackathon at HighRadius.
 - **Best Performer at Highradius**: Awarded in Q3 2020, Q1 2021 & Q4 2021 at HighRadius.
 
+---
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sweta-pati)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spati@gmu.edu)
 
+---
 ## ⚡ Fun Fact
 - I love exploring new places!
 
+---
 ## 👀 Profile Visitor Count
 ![](https://visitcount.itsvg.in/api?id=swetapati22&icon=0&color=0)
 
