@@ -104,7 +104,7 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
 * Designed a **React + TypeScript + Vite** frontend with **speech input**, backed by **Firebase (Auth + Firestore)**.
 * Developed features like **conversation summarization**, **video suggestions**, and **scam-resistance UX patterns**.
 * **Tech Stack**: TypeScript, React, **Flask, OpenAI GPT-4, Firebase**, Web Speech API, Bootstrap.
-* 🔗 **GitHub Repo:** [TechMate]([https://github.com/your-username/techmate](https://github.com/swetapati22/TechMate))
+* 🔗 **GitHub Repo:** [TechMate](https://github.com/swetapati22/TechMate)
 
 📊 **YouTube Global Statistics Analytics**  
   - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
