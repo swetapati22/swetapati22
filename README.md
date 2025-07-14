@@ -66,7 +66,8 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
   - Developed a **multi-agent framework** using **LLaMA-3.3 70B** to extract and summarize **evidence-based medical insights**.  
   - Integrated **PubMed API, Wikipedia API, DuckDuckGo** for sourcing medical information.  
-  - **Tech Stack**: Python, **LLaMA-3.3-70B, Phidata, Groq Inference API, PubMed API, Wikipedia API, DuckDuckGo**.  
+  - **Tech Stack**: Python, **LLaMA-3.3-70B, Phidata, Groq Inference API, PubMed API, Wikipedia API, DuckDuckGo**.
+  - 🔗 **GitHub Repo:** [Medi-Buddy_Multi-AI_Agentic-Framework](https://github.com/swetapati22/Medi-Buddy_Multi-AI_Agentic-Framework)
 
 ☁️ **Multi-Cloud AI-Driven DevOps Project**  
   - **Designed a scalable, AI-powered e-commerce platform** leveraging **AWS, GCP, and Azure**.  
@@ -98,6 +99,7 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - Designed and implemented **data processing, model training, and error analysis pipelines**.  
   - **Tech Stack**: Python, **Hugging Face Transformers, PyTorch, NLP, DataLoader, RoBERTa, LongFormer**.  
   - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)
+  - - 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1_5Z3QTiQkOopB8KvlxxnlQSZl3MWW6DR/view?usp=sharing)
 
 🧓 **TechMate: AI-Powered Tech Support for Seniors**
   - Built a **voice-first AI assistant** and support platform to help **elderly users navigate modern technology**.
