@@ -82,11 +82,6 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - 🔗 **GitHub Repo:** [Multi-Cloud AI-Driven DevOps](https://github.com/swetapati22/MultiCloud_DevOps_AI_Project)
   - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=_LvKL2LE5qU)
 
-🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
-  - Fine-tuned **BERT** for **15-class multilingual classification**, achieving **70% accuracy**.  
-  - Enhanced generalization with **450+ annotated sentences** and **data augmentation** via translation and paraphrasing.  
-  - **Tech Stack**: Python, **Hugging Face Transformers, BERT, Spacy, HPC, Colab, GPU**.
-
 🤖 **Gentopia-Mason: Enhancing LLM Agents with Currency Conversion & PDF Reader**  
   - Adapted **Gentopia** framework for **creating modular LLM agents**.  
   - Implemented a **Currency Conversion Agent** using **Fixer.io API** for **real-time exchange rate retrieval**.  
@@ -130,6 +125,11 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - 🔗 **Live App:** [YouTube Global Analytics](https://my-example-project-514006-3h0rzgww-ndjz2ws6la-ue.a.run.app)  
   - 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1dIltYoPJXD8v64u2FJ1dohb0a2Vnw4o0/view?usp=sharing)  
   - 📊 **Dataset:** [YouTube Global Statistics 2023 - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023?resource=download)
+
+🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
+  - Fine-tuned **BERT** for **15-class multilingual classification**, achieving **70% accuracy**.  
+  - Enhanced generalization with **450+ annotated sentences** and **data augmentation** via translation and paraphrasing.  
+  - **Tech Stack**: Python, **Hugging Face Transformers, BERT, Spacy, HPC, Colab, GPU**.
 
 🚍 **Dynamic Bus Routing System**  
 *[Winner] - Smart India Hackathon (Nation Level Hackathon In India)* 
