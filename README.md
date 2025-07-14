@@ -77,7 +77,8 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - **Multi-Cloud Data Processing**: Connected **AWS Lambda** to **Google BigQuery** for **real-time analytics**, used **Azure AI** for **sentiment analysis**.  
   - **Cloud Synchronization**: Ensured smooth **data exchange across cloud providers**.
   - **Tech Stack**: Python, **Terraform, Docker, Kubernetes, AWS, GCP, Azure, FastAPI, OpenAI APIs, Bedrock AI, Google BigQuery**
-  - 🔗 **GitHub Repo:** [Multi-Cloud AI-Driven DevOps](https://github.com/swetapati22/MultiCloud_DevOps_AI_Project) 
+  - 🔗 **GitHub Repo:** [Multi-Cloud AI-Driven DevOps](https://github.com/swetapati22/MultiCloud_DevOps_AI_Project)
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=_LvKL2LE5qU)
 
 🌍 **Multilingual Sentence Classification for Media Framing and Bias Detection**  
   - Fine-tuned **BERT** for **15-class multilingual classification**, achieving **70% accuracy**.  
@@ -99,12 +100,13 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - 🔗 **GitHub Repo:** [Counterhate Arguments](https://github.com/swetapati22/Counterhate_Arguments)
 
 🧓 **TechMate: AI-Powered Tech Support for Seniors**
-* Built a **voice-first AI assistant** and support platform to help **elderly users navigate modern technology**.
-* Integrated **GPT-4 via Flask** for step-by-step help, plus **human-in-the-loop escalation** and **YouTube tutorials** by device type.
-* Designed a **React + TypeScript + Vite** frontend with **speech input**, backed by **Firebase (Auth + Firestore)**.
-* Developed features like **conversation summarization**, **video suggestions**, and **scam-resistance UX patterns**.
-* **Tech Stack**: TypeScript, React, **Flask, OpenAI GPT-4, Firebase**, Web Speech API, Bootstrap.
-* 🔗 **GitHub Repo:** [TechMate](https://github.com/swetapati22/TechMate)
+  - Built a **voice-first AI assistant** and support platform to help **elderly users navigate modern technology**.
+  - Integrated **GPT-4 via Flask** for step-by-step help, plus **human-in-the-loop escalation** and **YouTube tutorials** by device type.
+  - Designed a **React + TypeScript + Vite** frontend with **speech input**, backed by **Firebase (Auth + Firestore)**.
+  - Developed features like **conversation summarization**, **video suggestions**, and **scam-resistance UX patterns**.
+  - **Tech Stack**: TypeScript, React, **Flask, OpenAI GPT-4, Firebase**, Web Speech API, Bootstrap.
+  - 🔗 **GitHub Repo:** [TechMate](https://github.com/swetapati22/TechMate)
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=OivQJb1afGA&t=1s)  
 
 📊 **YouTube Global Statistics Analytics**  
   - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
