@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
-#### Link to my Webpage: - [Link to my website](https://swetapati22.github.io/)
-#### Link to my LinkedIn: - [Link to my Linked](https://www.linkedin.com/in/sweta-pati/)
+#### [Link to my website](https://swetapati22.github.io/)
+#### [Link to my Linked](https://www.linkedin.com/in/sweta-pati/)
 
 ---
 
