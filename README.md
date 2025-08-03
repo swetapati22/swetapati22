@@ -116,7 +116,16 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
   - Enabled **seamless file handling, error feedback**, and **auto-generated chart summaries**.
   - **Tech Stack**: JavaScript, **React.js, Flask, Matplotlib, Seaborn, Gemini AI**.
   - 🔗 **GitHub Repo:** [TalkWithData](https://github.com/swetapati22/Talk_with_Data)
-  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=gNjNFfTYLe4) 
+  - 🎥 **Demo Video:** [Watch Here](https://www.youtube.com/watch?v=gNjNFfTYLe4)
+
+🎛️ **Post Training: SFT: Supervised Fine-Tuning of Language Models with Hugging Face & TRL**
+  - Demonstrated **end-to-end Supervised Fine-Tuning (SFT)** using **Hugging Face Transformers** and the **TRL (Transformers Reinforcement Learning) library**.
+  - Conducted **side-by-side evaluation** of baseline and fine-tuned models (Qwen3-0.6B & Qwen3-0.6B-SFT) using modular helper functions and `chat_template` inputs.
+  - Fine-tuned a lightweight model (**SmolLM2-135M**) using a subset of the **`banghua/DL-SFT-Dataset`**, with detailed configuration via `SFTConfig`.
+  -  Focused on **interpretability** and **conceptual clarity**: designed the pipeline for reproducibility and analysis on local machines.
+  - Highlights: manual response evaluation, inference helpers, structured training logs, minimal-resource execution.
+  - **Tech Stack**: Python, **Hugging Face Transformers, TRL, PyTorch, pandas, datasets API**
+  - 🔗 **GitHub Repo:** [Post\_Training\_SFT](https://github.com/swetapati22/Post_Training_SFT)
 
 📊 **YouTube Global Statistics Analytics**  
   - **Developed an interactive data visualization web application** to analyze **YouTube video trends** across **categories, creators, and countries**.  
