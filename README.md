@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 AI/ML Engineer with 5+ years of experience designing, implementing, and scaling ML and GenAI solutions across FinTech and NLP domains. My work spans ML modeling, LLM fine-tuning, RAG pipelines, and agentic AI systems, translating data into real-world impact.
 
 • Currently working as an AI/ML Engineer at 4A Consulting, LLC, where I build cutting-edge AI products in their innovation hub for multiple Fortune 500 clients, applying GenAI, multi-agent systems, and scalable ML pipelines across domains.
+
 • At HighRadius, I led ML initiatives that enhanced fraud detection, improved payment forecasting, and optimized financial workflows, delivering measurable outcomes and contributing to up to 12% improvement in revenue recovery across global enterprises like Nestlé, Uber, and Kraft Heinz.
+
 • My research as a NLP research assistant on instruction-tuned LLMs for event extraction, conducted at George Mason University, was accepted at ACL 2025.
 
 Skilled in Python, PyTorch, Hugging Face, LangChain, Transformers, LLMs (LLaMA, GPT), LoRA, RAG, Agentic AI, Prompt Engineering, AWS, GCP, Docker, CI/CD, MLOps
