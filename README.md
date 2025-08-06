@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 #### [Link to my Website](https://swetapati22.github.io/)
 #### [Link to my LinkedIn](https://www.linkedin.com/in/sweta-pati/)
+#### Email: spati2203@gmail.com
 
 ---
 
