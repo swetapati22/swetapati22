@@ -68,6 +68,13 @@ Please find the link to the paper here: **Paper:**: [PUFSSL: An OpenSSL Extensio
 ---
 ## 🔭 Projects
 
+🏦 **FinInsight: Earnings Insight RAG Assistant**  
+  - Developed a **Retrieval-Augmented Generation (RAG) assistant** to analyze **10-K/10-Q SEC filings** with precise, source-linked answers.  
+  - **Pipeline:** Upload PDF → Parse (PyMuPDF) → Chunk (LangChain) → Embed (OpenAI) → Store/Retrieve (Pinecone) → **QA with sources** (LangChain + GPT-3.5).  
+  - Built an **interactive Gradio UI** to upload filings, ask financial questions, and view raw retrieved contexts + GPT-formatted citations.  
+  - **Tech Stack**: Python, **LangChain, OpenAI (text-embedding-3-small, GPT-3.5), Pinecone, PyMuPDF, Gradio**.  
+  - 🔗 **GitHub Repo:** [fininsight-rag-assistant](https://github.com/swetapati22/fininsight-rag-assistant)  
+
 🏥 **Medi-Buddy: Multi-Agent Framework for Medical Insights**  
   - Developed a **multi-agent framework** using **LLaMA-3.3 70B** to extract and summarize **evidence-based medical insights**.  
   - Integrated **PubMed API, Wikipedia API, DuckDuckGo** for sourcing medical information.  
